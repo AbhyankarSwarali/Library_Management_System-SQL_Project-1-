@@ -1,5 +1,5 @@
-Retail Sales Analysis SQL Project
-Project Overview
+# Retail Sales Analysis
+## Project Overview
 Project Title: Retail Sales Analysis
 Level: Beginner
 Database: p1_retail_db
