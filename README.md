@@ -58,8 +58,3 @@ and many more....
 
 Thank you!
 Have a great learning!!
-SELECT 
-    shift,
-    COUNT(*) as total_orders    
-FROM hourly_sale
-GROUP BY shift
